@@ -1,4 +1,5 @@
-﻿string [] array = new string[10] {"hello", "57895", "257","car", "easy", "end", "sity", "","table", ":-)"};
+﻿
+string [] array = new string[10] {"hello", "57895", "257","car", "easy", "end", "sity", "","table", ":-)"};
 
 string [] СhoiceOfWords(string [] array)
 {
@@ -12,7 +13,7 @@ string [] СhoiceOfWords(string [] array)
             j = j + 1;
         }
     }
-    return words;
+    return words; 
 }
 
 void ShowArray(string[] array)
