@@ -1,5 +1,5 @@
 ﻿
-string [] array = new string[10] {"hello", "57895", "257","car", "easy", "end", "sity", "","table", ":-)"};
+string [] array = new string[10] {"hello", "57895", "257","car", "easy", "end", "sity", "home","table", ":-)"};
 
 string [] СhoiceOfWords(string [] array)
 {
